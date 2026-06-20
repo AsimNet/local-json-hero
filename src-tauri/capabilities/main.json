@@ -1,0 +1,7 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "main",
+  "description": "Desktop permissions for the Local JSON Hero main window.",
+  "windows": ["main"],
+  "permissions": ["core:default", "dialog:default"]
+}

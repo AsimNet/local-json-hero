@@ -1,0 +1,1 @@
+{"main":{"identifier":"main","description":"Desktop permissions for the Local JSON Hero main window.","local":true,"windows":["main"],"permissions":["core:default","dialog:default"]}}
